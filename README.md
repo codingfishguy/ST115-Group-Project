@@ -2,8 +2,6 @@
 
 Examining Student and Online perceptions of LSE
 
-Definition of Student Satisfaction: How satisfied students are overall with the teaching in their university (what a lot of websites seem to use, might need to change this though)
-
 Main Research Questions
 -	How does LSE student satisfaction compare to other universities?
 -	How has LSE student satisfaction evolved over the last few years (2020-2023)?
