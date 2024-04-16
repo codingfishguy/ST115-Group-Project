@@ -1,6 +1,8 @@
 # ST115-Group-Project
 
-This is the ST115 Group Project.
+Analysing how LSE is perceived by its students and "the public" (better name needed)
+
+Definition of Student Satisfaction: How satisfied students are overall with the teaching in their university (what a lot of websites seem to use, might need to change this though)
 
 Main Research Questions
 -	How does LSE student satisfaction compare to other universities?
