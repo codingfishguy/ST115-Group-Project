@@ -1,10 +1,8 @@
 # ST115-Group-Project
 
-<<<<<<< HEAD
 Examining Student and Online perceptions of LSE
-=======
+
 This is the ST115 Group Project.
->>>>>>> parent of 02df28d (Merge branch 'main' of https://github.com/codingfishguy/ST115-Group-Project)
 
 Main Research Questions
 -	How does LSE student satisfaction compare to other universities?
