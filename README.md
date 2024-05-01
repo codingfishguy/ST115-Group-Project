@@ -1,13 +1,9 @@
 # ST115-Group-Project
 
-Examining Student and Online perceptions of LSE
+Examining Student and Online perceptions of the London School of Economics. We focus on the following questions:
 
-This is the ST115 Group Project.
+How does LSE student satisfaction compare to other universities?
+How is LSE perceived by people online? How does it compare with other universities's perceptions online?
+How does student satisfaction within LSE vary by degree?
+How has LSE student satisfaction evolved over time (2015-2023)?
 
-Main Research Questions
--	How does LSE student satisfaction compare to other universities?
--	How has LSE student satisfaction evolved over the last few years (2020-2023)? 
--   Has student satisfaction improved since COVID-19? (2020-2023)
--	How does student satisfaction in LSE vary by degree?
--	How is LSE perceived by people online? (E.g. Reddit)
--	Does LSE’s perceived ‘low’ student satisfaction relate to it being a London university? -   - -   How does London university student satisfaction compare to universities outside of London?
